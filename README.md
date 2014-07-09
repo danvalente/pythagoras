@@ -1,4 +1,4 @@
 # Pythagoras
-## An audio analysis library in python
+## An audio analysis library for Python
 
 Documentation to come.
